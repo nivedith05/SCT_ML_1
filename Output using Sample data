@@ -1,0 +1,15 @@
+Sample Data:
+   SquareFootage  Bedrooms  Bathrooms   Price
+0           3674         4          2  602267
+1           1360         4          3  296192
+2           1794         3          3  325162
+3           1630         2          2  293040
+4           1595         4          3  328494
+
+Model Coefficients:
+Intercept: 6302.88
+Coefficients: {'SquareFootage': np.float64(148.42286514468825), 'Bedrooms': np.float64(10071.28457297336), 'Bathrooms': np.float64(14349.829058893807)}
+
+Model Performance:
+Mean Squared Error: 130604712.18
+R2 Score: 0.9949

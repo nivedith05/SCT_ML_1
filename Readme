@@ -1,4 +1,4 @@
-This Python script implements a multiple linear regression model using synthetic housing data to predict house prices based on three features: square footage, number of bedrooms, and number of bathrooms.
+This Python script implements a linear regression model using housing data to predict house prices based on three features: square footage, number of bedrooms, and number of bathrooms.
 
 Key Steps:
 1. Data Generation:
